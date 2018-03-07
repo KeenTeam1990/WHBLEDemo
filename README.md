@@ -1,7 +1,7 @@
-# WHBLEDemo  （OC & Swift）
-CoreBluetooth central and peripheral demo with OC/Swift 
+# WHBLEDemo  （OC ）
+CoreBluetooth central and peripheral demo with OC
 
-(iOS蓝牙中心设备和外设开发,本例中包含Swift版本)
+(iOS蓝牙中心设备和外设开发)
 
 iOS蓝牙开发基础请到这里查阅：**[iOS蓝牙开发介绍](https://remember17.github.io/2017/07/18/iOS%E8%93%9D%E7%89%99%E5%BC%80%E5%8F%91%EF%BC%8C%E4%B8%AD%E5%BF%83%E8%AE%BE%E5%A4%87%E5%92%8C%E5%A4%96%E8%AE%BE%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%8C%E6%9C%89Demo/)**
 
